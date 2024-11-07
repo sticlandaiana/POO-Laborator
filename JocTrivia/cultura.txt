@@ -1,0 +1,18 @@
+2
+Ce specie de animal are in componenta denumirii sale numele unei insule faimoase?
+a) lemurul catta
+b) pisica de mare
+c) tesoasa de Galapagos
+d) bizonul auriu
+1
+Ce sculptor roman s-a bucurat de o notorietate deosebita in Franta?
+a) Dimitrie Paciurea
+b) Constantin Brancusi
+c) Constantin Crenganis
+d) Dinu Lipatti
+1
+Ce reprezinta un "bug" in programare?
+a) o functie corecta
+b) o eroare de cod
+c) o optimizare
+d) o tehnica de programare
